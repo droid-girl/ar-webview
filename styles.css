@@ -40,7 +40,6 @@ model-viewer {
 .attribution {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   margin: 1em;
 }
 
